@@ -1,0 +1,28 @@
+
+@{
+    ViewData["Title"] = "Form";
+}
+
+<h1>Form</h1>
+
+<form asp-action="Form" method="post">
+    <div>
+        <label asp-for="email"> Twoje imie </label>
+        <input asp-for="Imie">
+    </div>
+    <div>
+        <label asp-for="email"> Twoj email </label>
+        <input asp-for="Email">
+    </div>
+    <div>
+        <label asp-for="email"> Temat </label>
+        <input asp-for="Temat">
+    </div>
+    <div>
+        <label asp-for="email"> Tresc </label>
+        <input asp-for="Tresc">
+    </div>
+    <div>
+        <input type="submit"  />
+    </div>
+</form>

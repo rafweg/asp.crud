@@ -591,3 +591,4 @@
 /Users/home/Workspace/ASP/Filmy/Filmy/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 /Users/home/Workspace/ASP/Filmy/Filmy/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 /Users/home/Workspace/ASP/Filmy/Filmy/bin/Debug/net8.0/TestApplicationCore.dll
+/Users/home/Workspace/ASP/Filmy/Filmy/obj/Debug/net8.0/Filmy.sourcelink.json
